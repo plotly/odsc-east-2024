@@ -1,0 +1,4 @@
+dash==2.16.1
+pandas==2.2.2
+dash-bootstrap-components==1.6.0
+scikit-learn==1.4.2
