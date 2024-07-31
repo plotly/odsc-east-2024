@@ -50,3 +50,9 @@ You can run the app on your browser at http://127.0.0.1:8050
 ## Resources
 
 To learn more about Dash, please visit [Plotly's documentation site](https://dash.plotly.com/).
+
+<div align="center">
+  <a href="https://dash.plotly.com/project-maintenance">
+    <img src="https://dash.plotly.com/assets/images/maintained-by-plotly.png" width="400px" alt="Maintained by Plotly">
+  </a>
+</div>
